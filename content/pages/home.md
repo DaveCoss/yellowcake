@@ -3,7 +3,7 @@ template: HomePage
 slug: ''
 title: North Shore Dial a Driver
 featuredImage: 'https://ucarecdn.com/eccd0904-df05-4b9a-9ec7-21bf1bb05091/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+subtitle: Who's gonna drive you home tonight...?
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
